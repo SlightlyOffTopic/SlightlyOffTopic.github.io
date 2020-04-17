@@ -1,0 +1,2 @@
+- $ cd SlightliOffTopic.github.io
+ $ echo "Hello World" > indexhtml
