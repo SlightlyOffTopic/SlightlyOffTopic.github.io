@@ -1,13 +1,51 @@
+/* font-family: 'Bangers', cursive; */
+
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+.logo {
+    background-image: url("");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.nav-links a {
+    font-family: 'Bangers', cursive;
+    color: black;
+    cursor: pointer;
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
 header {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     background-color: black;
+    height: 500px;
+}
+
+header {
+    text-align: center;
+    height: 150px;
 }
 
 header img {
-    width: 6rem;
-    height: 6rem;
+    width: 5rem;
+    height: 5rem;
 }
