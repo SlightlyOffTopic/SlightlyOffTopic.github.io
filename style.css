@@ -3,7 +3,11 @@
     padding: 0;
 }
 
-.logo {
-    display: flex;
-    width: 25%;
+header {
+    background-color: crimson;
+}
+
+header img {
+    width: 6rem;
+    height: 6rem;
 }
