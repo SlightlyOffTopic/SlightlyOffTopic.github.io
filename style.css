@@ -7,9 +7,9 @@
 }
 
 .logo {
-    background-image: url("");
     background-repeat: no-repeat;
     width: 50%;
+    height: 150%;
 }
 
 .nav-links a {
