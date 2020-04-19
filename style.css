@@ -44,6 +44,6 @@ header {
 }
 
 header img {
-    width: 5rem;
-    height: 5rem;
+    width: auto;
+    height: auto;
 }
