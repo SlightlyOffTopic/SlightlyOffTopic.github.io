@@ -12,6 +12,7 @@
 
 .nav-links a {
     font-family: 'Bangers', cursive;
+    font-size: x-large;
     color: black;
     cursor: pointer;
     list-style: none;
@@ -35,7 +36,6 @@ header {
     flex-direction: row;
     justify-content: center;
     background-color: black;
-    height: 500px;
 }
 
 header {
