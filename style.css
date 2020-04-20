@@ -53,3 +53,14 @@ header img {
 .showcase {
     background-image: url("https://SlightlyOffTopic.github.io/images/bg.jpg");
 }
+
+footer {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+
+}
