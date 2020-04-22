@@ -55,10 +55,22 @@ header img {
     background-image: url("https://SlightlyOffTopic.github.io/images/bg.jpg");
 }
 */
+.main {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
 footer {
     background-color: black;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-family: fantasy;
+    font-size: x-large;
+    color: white;
     padding: 30px 10%;
+    padding-bottom: 100px;
 }
