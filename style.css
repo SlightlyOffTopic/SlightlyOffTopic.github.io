@@ -50,10 +50,11 @@ header img {
     height: auto;
 }
 
+/*
 .showcase {
     background-image: url("https://SlightlyOffTopic.github.io/images/bg.jpg");
 }
-
+*/
 footer {
     background-color: red;
     display: flex;
