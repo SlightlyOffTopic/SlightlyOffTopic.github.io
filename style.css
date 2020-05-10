@@ -82,6 +82,11 @@ header img {
 .main h3 {
     padding-top: 15px;
     padding-bottom: 15px;
+    text-decoration: underline;
+}
+
+.main p {
+    font-weight: bold;
 }
 
 .main ul {
