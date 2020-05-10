@@ -79,6 +79,10 @@ header img {
     padding: 30px 10%;
 }
 
+.main ul {
+    padding-top: 15px;
+}
+
 footer {
     background-color: black;
     display: flex;
