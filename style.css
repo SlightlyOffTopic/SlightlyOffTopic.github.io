@@ -79,8 +79,14 @@ header img {
     padding: 30px 10%;
 }
 
+.main h3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 .main ul {
     padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 footer {
